@@ -1,0 +1,61 @@
+#blablabla { 
+
+}
+
+.container {
+
+}
+
+#slide-2 {
+
+background-color: #16a79d;
+
+}
+
+#slide-4 {
+
+background-color: #cf4858;
+}
+
+#slide-5 {
+
+background-color: #4f8598;;
+}
+
+#slide-6 {
+
+background-color: #43454f;
+}
+
+
+.paralink {
+text-decoration: underline;
+color: white;
+
+
+}
+.paralink:hover  {
+color: silver;
+
+
+
+
+}
+
+
+img.circle {
+  -webkit-border-radius: 1000px;
+  -moz-border-radius: 1000px;
+  border-radius: 1000px;
+  height: 200px;
+}
+
+#lates-app {
+
+}
+
+
+
+
+
+
